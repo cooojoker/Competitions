@@ -2,6 +2,7 @@
 //BETTER SOLUTION:COUNT THE 0 OR 1 NUM ON EACH BIT,AND SEE IF IT'S COMMONTARY. FOR EXAMP:N=5,
 //A BIT HAS COMPARISON OF 2 2 OR 2 3 IS BOTH AVALIABLE,BUT LATER ONE NEEDS TO FLIP//
 //!!!!SILLY ME!!!!
+//I KNOW WHY I'M WRONG:cannot sort it for another time,the place has to be hold in order for one-one map.!-。-!
 #define LOCAL
 #include <iostream>
 #include <vector>
